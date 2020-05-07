@@ -1,7 +1,3 @@
-To understand all the Linux-USB framework, you'll use these resources:
-
-    * This source code.  This is necessarily an evolving work, and
-      includes kerneldoc that should help you get a current overview.
       ("make pdfdocs", and then look at "usb.pdf" for host side and
       "gadget.pdf" for peripheral side.)  Also, Documentation/usb has
       more information.
